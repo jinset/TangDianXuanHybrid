@@ -1,0 +1,37 @@
+.toolbar-background {
+    background: #ff923f !important;
+}
+
+.toolbar-title{
+    color: white !important;
+}
+.card-content{
+    padding: 0px 16px !important;
+}
+
+.card{
+    display: inline-block !important;
+    max-height: 200px!important;
+    min-height: 200px!important;
+    position: relative;
+    img {
+        max-height: 140px;
+        min-height: 140px;
+        object-fit: cover;
+    }
+}
+.card-title{
+    font-size: 1.4rem!important;
+    margin: auto!important;
+    padding: 3px 0!important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.p-card{
+    font-size: 1rem!important;
+}
+
+.p-bottom{
+    bottom: 3px;
+    position: absolute;
+}
