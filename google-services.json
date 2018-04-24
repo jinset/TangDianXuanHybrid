@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "948355387750",
+    "firebase_url": "https://tangdianxuan.firebaseio.com",
+    "project_id": "tangdianxuan",
+    "storage_bucket": "tangdianxuan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948355387750:android:18032fcbf138b52f",
+        "android_client_info": {
+          "package_name": "com.jinsoft.TDX"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948355387750-uataratpb0l1hpigtcq3or9t8k2alht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtRxv_9ePNAHzi5yUoktDTi7DSSw4ACA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
